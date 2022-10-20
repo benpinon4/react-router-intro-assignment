@@ -1,8 +1,43 @@
 .App {
   text-align: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
 }
 
-.App-logo {
+.contactInput-Container {
+  display: flex;
+  flex-direction: column;
+  border: solid black;
+  max-width: 350px;
+  margin-inline: auto;
+
+
+
+  
+}
+
+
+
+.inputContainer-Item {
+  
+
+}
+
+
+/* .inputContainer-Item-Label {
+  display: flex;
+  flex-direction: column;
+  color: red;
+} */
+
+
+
+
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +70,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

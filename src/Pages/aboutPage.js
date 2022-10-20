@@ -1,9 +1,9 @@
-import NavBar from "../Components/NavBar";
+
 
 const AboutPage = () => {
   return (
     <div>
-      <NavBar />
+
       <h1>About Page</h1>
       <p>
         Magna in mollit laborum id non consectetur ipsum cupidatat duis. Qui in
